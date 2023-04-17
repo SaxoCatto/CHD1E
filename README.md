@@ -15,12 +15,11 @@ to be dumped?
 
 
 SPECS:
-Input: 
-T for number of tests. \*Enters*|
+T for number of tests. \*Enters*\
 N, K for aforementioned numbers (0 <--> 10^5) \*Enters*\
 N
 
-Output: Probability of Thanh being dumped, with precision of 6 decimal points.
+Probability of Thanh being dumped, with precision of 6 decimal points.
 
 Input:
 1
